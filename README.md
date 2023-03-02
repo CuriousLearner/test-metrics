@@ -1,4 +1,4 @@
 Test repo for metrics
 ---------------------
 
-![Metrics](/github-metrics.svg)
+![Github Metrics](github-metrics.svg)
